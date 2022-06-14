@@ -10,9 +10,8 @@
 ## Personal Info
  - Focus                        : Backend Development
  - Total years of experience    : 10
- - Spoken Languages             : Turkish (native), English (advanced)
+ - Spoken Languages             : Turkish (native), English (B2 Level)
  - Education                    : Computer Engineer Bachelor’s Degree
- - Military Service		        : Done
  - Current Company		        : <a href="http://www.yemeksepeti.com">Yemeksepeti</a> (a part of <a href="http://www.deliveryhero.com">Delivery Hero</a> )
 
 
