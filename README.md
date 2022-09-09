@@ -12,7 +12,7 @@
  - Total years of experience    : 10
  - Spoken Languages             : Turkish (native), English (B2 Level)
  - Education                    : Computer Engineer Bachelor’s Degree
- - Current Company		        : <a href="http://www.yemeksepeti.com">Yemeksepeti</a> (a part of <a href="http://www.deliveryhero.com">Delivery Hero</a> )
+ - Current Company		            : <a href="http://www.deliveryhero.com">Delivery Hero</a>
 
 
 ## My Skill Set  
