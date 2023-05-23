@@ -9,7 +9,7 @@
 
 ## Personal Info
  - Focus                        : Backend Development
- - Total years of experience    : 10
+ - Total years of experience    : 11
  - Spoken Languages             : Turkish (native), English (B2 Level)
  - Education                    : Computer Engineer Bachelor’s Degree
  - Current Company		            : <a href="http://www.deliveryhero.com">Delivery Hero</a>
