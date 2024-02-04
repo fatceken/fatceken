@@ -9,10 +9,11 @@
 
 ## Personal Info
  - Focus                        : Backend Development
- - Total years of experience    : 11
+ - Total years of experience    : 12
  - Spoken Languages             : Turkish (native), English (B2 Level)
  - Education                    : Computer Engineer Bachelor’s Degree
- - Current Company		            : <a href="http://www.deliveryhero.com">Delivery Hero</a>
+ - Current Company		            : <a href="https://www.bitaksi.com/en">BiTaksi</a>
+ - Role                         : Staff Software Engineer
 
 
 ## My Skill Set  
